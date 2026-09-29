@@ -1,10 +1,27 @@
 # Hi, I'm Harsh Prajapati 👋
 
-Software developer building full-stack, backend, cloud, and systems-oriented projects with JavaScript, Node.js, C++, AWS, Docker, and automated testing.
+Software developer building full-stack, backend, cloud, and systems-oriented projects with TypeScript, JavaScript, Node.js, C++, AWS, Docker, and automated testing.
 
 I enjoy taking projects from implementation through testing, CI/CD, packaging, and release — with a focus on clean architecture, reliability, and practical user-facing results.
 
 ## 🚀 Featured Projects
+
+### Repository Release Auditor
+
+Published open-source TypeScript/Node.js CLI for checking Git repository release hygiene before sharing source or shipping a release.
+
+- Six check families covering working-tree cleanliness, risky tracked files, machine-specific paths, build outputs, large files, and configurable forbidden patterns
+- Text and JSON reports, defined exit codes, input validation, and diagnostic redaction
+- Windows and Ubuntu CI with package inspection and isolated installed-command verification
+- Version **0.1.0 published on npm** under the MIT license
+- Reports evidence and warnings; it is not a comprehensive secret scanner or a security certification
+
+**Stack:** TypeScript, Node.js, Git, GitHub Actions, npm packaging
+
+🔗 [Repository](https://github.com/Ken-2004/repository-release-auditor)  
+🔗 [npm Package](https://www.npmjs.com/package/repository-release-auditor)
+
+---
 
 ### National Historic Sites Explorer
 
@@ -46,7 +63,7 @@ Authenticated cloud-backed service for storing, retrieving, updating, converting
 
 ## 🛠️ Technologies
 
-**Languages:** JavaScript, Python, C++, HTML, CSS  
+**Languages:** TypeScript, JavaScript, Python, C++, HTML, CSS  
 **Frontend:** React, Next.js, Bootstrap, SWR, Jotai  
 **Backend:** Node.js, Express, REST APIs, JWT/OIDC authentication  
 **Data & Cloud:** MongoDB, DynamoDB, Amazon S3, Amazon Cognito, AWS  
