@@ -4,6 +4,10 @@ Software developer building full-stack, backend, cloud, and systems-oriented pro
 
 I enjoy taking projects from implementation through testing, CI/CD, packaging, and release — with a focus on clean architecture, reliability, and practical user-facing results.
 
+**[Portfolio & case studies](https://portfolio-site-orpin-five-52.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/harsh-prajapati-2832b4237/)
+
+My portfolio brings together the projects below, their engineering decisions, testing evidence, and links to source code and releases. Built with Next.js and TypeScript, statically deployed on Vercel, and updated through GitHub.
+
 ## 🚀 Featured Projects
 
 ### Repository Release Auditor
@@ -77,4 +81,4 @@ I'm open to junior software developer, backend developer, full-stack developer, 
 
 ## 📫 Connect
 
-Feel free to explore my repositories or reach out through GitHub.
+Explore my [portfolio](https://portfolio-site-orpin-five-52.vercel.app/), browse the repositories above, or connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-prajapati-2832b4237/).
